@@ -1,0 +1,14 @@
+.pytest_cache/
+__pycache__/
+.venv/
+.coverage
+htmlcov/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+data/
+local_dev_home/
